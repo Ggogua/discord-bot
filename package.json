@@ -1,0 +1,17 @@
+{
+  "name": "discord-calculator-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that acts as a calculator.",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/rest": "^2.0.1",
+    "discord-api-types": "^0.37.60",
+    "discord.js": "^14.3.1",
+    "discord.js-commando": "^0.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
